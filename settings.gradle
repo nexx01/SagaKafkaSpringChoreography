@@ -1,0 +1,6 @@
+rootProject.name = 'SagaKafkaSpringChoreography'
+
+include 'order-ms'
+include 'payment-ms'
+include 'stock-ms'
+include 'delivery-ms'
